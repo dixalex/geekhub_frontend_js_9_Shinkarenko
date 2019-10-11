@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+.header {
+  text-align: center;
+}
+.introduction-example {
+  text-align: center;
+}
+.cis-2_img{
+    text-align: center;
+}
+.cis-2_text{
+    text-align: right;
+}
+aside{
+  float: right;
+  max-width: 330px;
+}
